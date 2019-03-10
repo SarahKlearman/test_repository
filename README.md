@@ -1,2 +1,3 @@
 # test_repository
-repository for github 101 class
+A repository for the github 101 class
+This is my **first edit to the README.**                                         
